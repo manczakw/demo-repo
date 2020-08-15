@@ -1,3 +1,3 @@
-#Demo repository
+# Demo repository
 
 Nothing intresting in here
